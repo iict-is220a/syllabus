@@ -1,4 +1,4 @@
-# Introduction to Game Programming Syllabus
+# Object-Oriented Programming for IS Syllabus
 
 * **Course:** [IS 220A, WVSU IICT](http://wvsu.edu.ph)
 * **Instructor:** Mark Joseph J. Solidarios, [mjsolidarios@wvsu.edu.ph](mjsolidarios@wvsu.edu.ph)
